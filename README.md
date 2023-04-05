@@ -16,7 +16,7 @@ This repository contains a light version of the code and data related to the pap
 
 1. Clone this repository:
 ```
-git clone https://github.com/HiddenContributor/A-Meta-Generation-framework-for-Industrial-System-Generation.git
+git clone https://github.com/HiddenContributor/A_Meta_Generation_framework_for_Industrial_System_Generation.git
 cd A-Meta-Generation-framework-for-Industrial-System-Generation
 ```
 
