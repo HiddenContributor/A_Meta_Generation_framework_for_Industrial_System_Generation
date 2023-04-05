@@ -6,11 +6,11 @@ This repository contains a light version of the code and data related to the pap
 
 - `models/`: Contains the saved model architectures in scripts.
 - `dataset/`: Contains the dataset used in the experiments and the datasets used in training.
-- `saves/`:"Contains four subfolders named after the model types (e.g., meta_vae, vanilla_vae...), each containing five instances of the same model, trained independently with identical hyperparameters and PyTorch's default initialization for increased robustness."
-- `figures/`: Contains the figures to be displayed in the README.
+- `saves/` Contains four subfolders named after the model types (e.g., meta_vae, vanilla_vae...), each containing five instances of the same model, trained independently with identical hyperparameters and PyTorch's default initialization for increased robustness.
+- `figures/`: Contains the figures to be displayed in the Jupyter notebooks.
 - `notebooks/`: Contains two Jupyter notebooks:
     - `dataset_generation.ipynb`: Used to generate and save the dataset explained in the paper.
-    - `experiments.ipynb`: Used to load the models, plot different generations, distributions, and error histograms as explained in the paper.
+    - `experiments.ipynb`: Used to load the models, plot different generations, distributions, error histograms as explained in the paper.
 
 ## Getting Started
 
