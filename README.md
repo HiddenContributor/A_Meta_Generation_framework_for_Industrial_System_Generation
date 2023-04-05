@@ -17,7 +17,7 @@ This repository contains a light version of the code and data related to the pap
 1. Clone this repository:
 ```
 git clone https://github.com/HiddenContributor/A_Meta_Generation_framework_for_Industrial_System_Generation.git
-cd A-Meta-Generation-framework-for-Industrial-System-Generation
+cd A_Meta_Generation_framework_for_Industrial_System_Generation
 ```
 
 2. Create a virtual environment and install the required packages:
